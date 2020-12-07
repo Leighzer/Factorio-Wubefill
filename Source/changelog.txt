@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+  Changes:
+    - Add a new wube water tile type that wubefill places so that it looks better when there are large lakes of wube water. This also leaves main menu simulations unaffected.
+    - Update thumbnail.
+---------------------------------------------------------------------------------------------------
 Version: 0.1.0
   Changes:
     - Initial release.
